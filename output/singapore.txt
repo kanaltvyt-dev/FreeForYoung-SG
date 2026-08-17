@@ -6,17 +6,31 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
-trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#EPODONIOS
-trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬SG-🚀@VPNine1
+trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
+trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#🇸🇬144652
+trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#EPODONIOS
+trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬SG-🚀@VPNine1
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#EPODONIOS
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬144707
+trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬144651
+trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#🇸🇬144807
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#EPODONIOS
-trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#EPODONIOS
-trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#EPODONIOS
-trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬144546
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#🇸🇬
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#🇸🇬|SG|@wxgqlfx|1
 trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#@hex_proxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@v2raybaaz
+trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#EPODONIOS
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#EPODONIOS
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#EPODONIOS
+trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG-🚀@VPNine1
+trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#🇸🇬144650
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#EPODONIOS
+trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬SG-🚀@VPNine1
+trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#[🇸🇬]t.me/ConfigsHub
+trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬144647
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#🇸🇬|SG|@wxgqlfx|1
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬@FreakConfig
 vless://46f0a59e-c0a6-4198-8f4e-963481113cd5@edge01.cyberdeepsea.top:52630/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=umjYmT9-RAOqu3e70GMXRDG7Y1u9pVXrFpYn3QOSzxk&sid=d9b72e4a#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
+vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#👉🆔@freenettir📡🇸🇬®️Singapore©️Singapore
+vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
