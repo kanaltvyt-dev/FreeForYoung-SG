@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": 1786954218,
-  "raw_unique": 2985,
-  "resolved": 2778,
-  "geoip_singapore_after_cdn_filter": 45,
-  "tcp_alive": 41,
+  "generated_at_utc": 1786961936,
+  "raw_unique": 2982,
+  "resolved": 2776,
+  "geoip_singapore_after_cdn_filter": 50,
+  "tcp_alive": 46,
   "published": 28,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
@@ -15,27 +15,81 @@
   },
   "servers": [
     {
-      "uri": "trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG",
-      "ip": "13.212.174.21",
-      "ping_ms": 161.6,
+      "uri": "trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#EPODONIOS",
+      "ip": "52.220.98.46",
+      "ping_ms": 168.7,
       "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#🇸🇬144652",
-      "ip": "13.212.33.67",
-      "ping_ms": 161.8,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
+      "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#EPODONIOS",
       "ip": "13.212.33.67",
-      "ping_ms": 161.9,
+      "ping_ms": 168.8,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#EPODONIOS",
+      "ip": "54.169.228.116",
+      "ping_ms": 168.8,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#EPODONIOS",
+      "ip": "13.212.186.116",
+      "ping_ms": 168.9,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬",
+      "ip": "52.220.98.46",
+      "ping_ms": 168.9,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls#🇸🇬144857",
+      "ip": "54.169.117.161",
+      "ping_ms": 169.1,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#🇸🇬SG-🚀@VPNine1",
+      "ip": "13.212.174.21",
+      "ping_ms": 169.2,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#EPODONIOS",
+      "ip": "54.254.235.88",
+      "ping_ms": 169.2,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#🇸🇬144838",
+      "ip": "13.212.174.21",
+      "ping_ms": 169.3,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
@@ -44,151 +98,70 @@
     {
       "uri": "trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬SG-🚀@VPNine1",
       "ip": "13.214.213.158",
-      "ping_ms": 162.0,
+      "ping_ms": 169.3,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#EPODONIOS",
-      "ip": "13.229.56.205",
-      "ping_ms": 162.1,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬144707",
-      "ip": "13.229.56.205",
-      "ping_ms": 162.2,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬144651",
-      "ip": "52.220.98.46",
-      "ping_ms": 162.2,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#🇸🇬144807",
-      "ip": "13.212.186.116",
-      "ping_ms": 162.3,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#EPODONIOS",
-      "ip": "154.196.139.50",
-      "ping_ms": 162.4,
-      "city": "Singapore",
-      "isp": "Datagear LLP",
-      "org": "Datagear LLP",
-      "as": "AS200758 Datagear LLP"
-    },
-    {
-      "uri": "trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#🇸🇬",
-      "ip": "13.212.173.162",
-      "ping_ms": 162.6,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#@hex_proxy",
-      "ip": "13.229.94.200",
-      "ping_ms": 162.6,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#EPODONIOS",
+      "uri": "trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#🇸🇬SG-🚀@VPNine1",
       "ip": "47.128.224.11",
-      "ping_ms": 162.6,
+      "ping_ms": 169.3,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls#🇸🇬SG-🚀@VPNine1",
+      "ip": "54.169.117.161",
+      "ping_ms": 169.3,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#EPODONIOS",
       "ip": "13.229.94.200",
-      "ping_ms": 162.7,
+      "ping_ms": 169.4,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#EPODONIOS",
-      "ip": "13.212.173.162",
-      "ping_ms": 162.8,
+      "uri": "trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=0&sni=intense-monarch.rooster465.autos#🇸🇬SG-🚀@VPNine1",
+      "ip": "13.212.33.67",
+      "ping_ms": 169.5,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG-🚀@VPNine1",
-      "ip": "13.212.174.21",
-      "ping_ms": 162.8,
+      "uri": "trojan://FH72359861@13.229.56.205:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#EPODONIOS",
+      "ip": "13.229.56.205",
+      "ping_ms": 169.5,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#🇸🇬144650",
-      "ip": "47.128.224.11",
-      "ping_ms": 163.1,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#EPODONIOS",
-      "ip": "54.254.235.88",
-      "ping_ms": 163.1,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#🇸🇬SG-🚀@VPNine1",
-      "ip": "52.220.98.46",
-      "ping_ms": 163.4,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#[🇸🇬]t.me/ConfigsHub",
-      "ip": "13.212.186.116",
-      "ping_ms": 163.9,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#🇸🇬144647",
+      "uri": "trojan://PQ05174892@apparent-wasp.rooster465.autos:443?allowInsecure=1#EPODONIOS",
       "ip": "13.214.213.158",
-      "ping_ms": 163.9,
+      "ping_ms": 169.6,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://FH72359861@13.229.56.205:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#v2ray_configs_pool-39",
+      "ip": "13.229.56.205",
+      "ping_ms": 169.6,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
@@ -197,70 +170,97 @@
     {
       "uri": "trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#🇸🇬|SG|@wxgqlfx|1",
       "ip": "54.254.235.88",
-      "ping_ms": 163.9,
+      "ping_ms": 169.6,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#🇸🇬",
-      "ip": "18.143.132.167",
-      "ping_ms": 165.1,
+      "uri": "trojan://PQ05174892@47.128.224.11:443?allowInsecure=0&sni=vast-werewolf.rooster465.autos#EPODONIOS",
+      "ip": "47.128.224.11",
+      "ping_ms": 169.9,
       "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
+      "isp": "Amazon Technologies Inc",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#🇸🇬SG-🚀@VPNine1",
+      "ip": "54.169.228.116",
+      "ping_ms": 169.9,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬@FreakConfig",
       "ip": "176.97.64.144",
-      "ping_ms": 170.1,
+      "ping_ms": 170.0,
       "city": "Singapore",
       "isp": "M247 Europe SRL",
       "org": "IROKO Networks Corporation",
       "as": "AS9009 M247 Europe SRL"
     },
     {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@vpnserverrr⭐",
+      "ip": "176.97.64.144",
+      "ping_ms": 170.2,
+      "city": "Singapore",
+      "isp": "M247 Europe SRL",
+      "org": "IROKO Networks Corporation",
+      "as": "AS9009 M247 Europe SRL"
+    },
+    {
+      "uri": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#EPODONIOS",
+      "ip": "154.196.139.50",
+      "ping_ms": 170.8,
+      "city": "Singapore",
+      "isp": "Datagear LLP",
+      "org": "Datagear LLP",
+      "as": "AS200758 Datagear LLP"
+    },
+    {
+      "uri": "trojan://FH72359861@eminent-panther.rooster465.autos:443?allowInsecure=1#🇸🇬144807",
+      "ip": "13.212.186.116",
+      "ping_ms": 172.0,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
       "uri": "vless://46f0a59e-c0a6-4198-8f4e-963481113cd5@edge01.cyberdeepsea.top:52630/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=umjYmT9-RAOqu3e70GMXRDG7Y1u9pVXrFpYn3QOSzxk&sid=d9b72e4a#EPODONIOS",
       "ip": "34.142.199.190",
-      "ping_ms": 170.2,
+      "ping_ms": 172.5,
       "city": "Singapore",
       "isp": "Google LLC",
       "org": "Google Cloud (asia-southeast1)",
       "as": "AS396982 Google LLC"
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig",
-      "ip": "176.97.64.144",
-      "ping_ms": 170.7,
+      "uri": "trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#@hex_proxy",
+      "ip": "13.229.94.200",
+      "ping_ms": 173.4,
       "city": "Singapore",
-      "isp": "M247 Europe SRL",
-      "org": "IROKO Networks Corporation",
-      "as": "AS9009 M247 Europe SRL"
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.246.50",
+      "ping_ms": 199.8,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬",
       "ip": "43.174.247.50",
-      "ping_ms": 204.4,
-      "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
-    },
-    {
-      "uri": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#👉🆔@freenettir📡🇸🇬®️Singapore©️Singapore",
-      "ip": "43.174.247.53",
-      "ping_ms": 204.8,
-      "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
-    },
-    {
-      "uri": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore",
-      "ip": "43.174.247.53",
-      "ping_ms": 205.0,
+      "ping_ms": 201.3,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
