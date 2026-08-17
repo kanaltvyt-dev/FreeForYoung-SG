@@ -1,7 +1,7 @@
-# Primary: country-targeted feed that already performs real HTTP-over-proxy verification
+# Primary Singapore feed
 https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt
 
-# Secondary public feeds
+# Additional public feeds
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt
