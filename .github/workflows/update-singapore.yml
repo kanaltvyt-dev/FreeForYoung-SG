@@ -1,0 +1,55 @@
+name: Update Singapore VPN
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: freeforyoung-sg
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build SG subscription
+        run: python scripts/build_sg_final.py
+
+      - name: Validate
+        run: |
+          set -euo pipefail
+          test -s output/singapore.txt
+          test -s output/singapore-base64.txt
+          test -s output/singapore-stats.json
+          echo "===== SG stats ====="
+          cat output/singapore-stats.json
+
+      - name: Commit
+        run: |
+          set -euo pipefail
+          git config user.name "FreeForYoung SG Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Update Singapore VPN"
+          git push
