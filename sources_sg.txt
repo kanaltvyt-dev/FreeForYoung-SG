@@ -1,0 +1,9 @@
+# Primary: country-targeted feed that already performs real HTTP-over-proxy verification
+https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt
+
+# Secondary public feeds
+https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt
+https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
