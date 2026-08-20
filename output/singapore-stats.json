@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1787219700,
-  "raw_unique": 2982,
-  "resolved": 2764,
+  "generated_at_utc": 1787223874,
+  "raw_unique": 2987,
+  "resolved": 2768,
   "geoip_singapore_after_cdn_filter": 27,
-  "tcp_alive": 12,
-  "published": 9,
+  "tcp_alive": 10,
+  "published": 7,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
@@ -15,54 +15,36 @@
   },
   "servers": [
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#EPODONIOS",
-      "ip": "176.97.64.144",
-      "ping_ms": 168.2,
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.247.50",
+      "ping_ms": 188.0,
       "city": "Singapore",
-      "isp": "M247 Europe SRL",
-      "org": "IROKO Networks Corporation",
-      "as": "AS9009 M247 Europe SRL"
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#EPODONIOS",
-      "ip": "134.185.94.203",
-      "ping_ms": 168.4,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬",
+      "ip": "167.150.100.115",
+      "ping_ms": 216.3,
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡",
-      "ip": "134.185.94.203",
-      "ping_ms": 168.7,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
+      "ip": "103.36.91.32",
+      "ping_ms": 218.1,
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
-    },
-    {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@vpnserverrr⭐",
-      "ip": "176.97.64.144",
-      "ping_ms": 169.0,
-      "city": "Singapore",
-      "isp": "M247 Europe SRL",
-      "org": "IROKO Networks Corporation",
-      "as": "AS9009 M247 Europe SRL"
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#🇸🇬",
-      "ip": "194.233.94.119",
-      "ping_ms": 176.5,
-      "city": "Singapore",
-      "isp": "Contabo Asia Private Limited",
-      "org": "Contabo Asia Private Limited",
-      "as": "AS141995 Contabo Asia Private Limited"
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 177.1,
+      "ping_ms": 219.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
@@ -71,29 +53,29 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 177.2,
+      "ping_ms": 336.2,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
-      "ip": "103.36.91.32",
-      "ping_ms": 179.3,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig",
+      "ip": "176.97.64.144",
+      "ping_ms": 480.2,
       "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+      "isp": "M247 Europe SRL",
+      "org": "IROKO Networks Corporation",
+      "as": "AS9009 M247 Europe SRL"
     },
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.247.50",
-      "ping_ms": 200.0,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#EPODONIOS",
+      "ip": "176.97.64.144",
+      "ping_ms": 480.2,
       "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
+      "isp": "M247 Europe SRL",
+      "org": "IROKO Networks Corporation",
+      "as": "AS9009 M247 Europe SRL"
     }
   ]
 }
