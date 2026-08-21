@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1787291526,
-  "raw_unique": 2986,
-  "resolved": 2788,
-  "geoip_singapore_after_cdn_filter": 28,
-  "tcp_alive": 17,
-  "published": 12,
+  "generated_at_utc": 1787299608,
+  "raw_unique": 2984,
+  "resolved": 2802,
+  "geoip_singapore_after_cdn_filter": 30,
+  "tcp_alive": 23,
+  "published": 14,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -17,7 +17,7 @@
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬",
       "ip": "43.174.246.50",
-      "ping_ms": 153.7,
+      "ping_ms": 152.6,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
@@ -25,44 +25,44 @@
     },
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.246.50",
-      "ping_ms": 154.1,
+      "ip": "43.174.247.50",
+      "ping_ms": 152.7,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
       "as": "AS139341 ACE"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#🐦‍🔥67@oneclickvpnkeys",
+      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#channel_@networld_vpn",
       "ip": "139.180.133.90",
-      "ping_ms": 221.8,
+      "ping_ms": 225.5,
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bUszVTRDY3hyZUV4VCs0WmJRK2l4VENSQTBQcGJ3QjJxRVlIc2d5U2FMVT0@161.118.236.226:56927#EPODONIOS",
+      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#🐦‍🔥67@oneclickvpnkeys",
+      "ip": "139.180.133.90",
+      "ping_ms": 225.6,
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC"
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bUszVTRDY3hyZUV4VCs0WmJRK2l4VENSQTBQcGJ3QjJxRVlIc2d5U2FMVT0=@161.118.236.226:56927#🇸🇬148685",
       "ip": "161.118.236.226",
-      "ping_ms": 221.8,
+      "ping_ms": 226.4,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#channel_@networld_vpn",
-      "ip": "139.180.133.90",
-      "ping_ms": 221.9,
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
-    },
-    {
       "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bUszVTRDY3hyZUV4VCs0WmJRK2l4VENSQTBQcGJ3QjJxRVlIc2d5U2FMVT0=@161.118.236.226:56927#EPODONIOS",
       "ip": "161.118.236.226",
-      "ping_ms": 222.2,
+      "ping_ms": 226.6,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
@@ -71,7 +71,7 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig",
       "ip": "176.97.64.144",
-      "ping_ms": 224.4,
+      "ping_ms": 227.5,
       "city": "Singapore",
       "isp": "M247 Europe SRL",
       "org": "IROKO Networks Corporation",
@@ -80,25 +80,43 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🚀t.me/iProxyChannel",
       "ip": "176.97.64.144",
-      "ping_ms": 224.6,
+      "ping_ms": 227.5,
       "city": "Singapore",
       "isp": "M247 Europe SRL",
       "org": "IROKO Networks Corporation",
       "as": "AS9009 M247 Europe SRL"
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#EPODONIOS",
+      "ip": "167.150.100.115",
+      "ping_ms": 230.6,
+      "city": "Singapore",
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#🇸🇬SG-🚀@VPNine1",
+      "ip": "167.150.100.115",
+      "ping_ms": 230.7,
+      "city": "Singapore",
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 243.4,
+      "ping_ms": 240.1,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
       "ip": "103.36.91.32",
-      "ping_ms": 245.5,
+      "ping_ms": 241.4,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
@@ -107,7 +125,7 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 387.1,
+      "ping_ms": 365.3,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
@@ -116,7 +134,7 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#🐦‍🔥81@oneclickvpnkeys",
       "ip": "194.233.94.119",
-      "ping_ms": 395.6,
+      "ping_ms": 368.0,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
