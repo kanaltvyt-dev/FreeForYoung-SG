@@ -6,18 +6,16 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#🇸🇬
+ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#EPODONIOS
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE0TkRNdFlUWTJNaTAwTWc9PQ@evjd8xfji5of.cdn000.com:31404#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.139.160.226:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE0TkRNdFlUWTJNaTAwTWc9PQ@evjd8xfji5of.cdn000.com:31404#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE0TkRNdFlUWTJNaTAwTWc9PQ@evjd8xfji5of.cdn000.com:31404#🇸🇬@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@47.128.254.170:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳
+ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#EPODONIOS
-ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#🇸🇬149923
-ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#🧮81@oneclickvpnkeys
+ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
 vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#EPODONIOS
-vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#🇸🇬SG-🚀@VPNine1
