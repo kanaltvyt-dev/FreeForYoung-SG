@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1787518540,
-  "raw_unique": 2984,
-  "resolved": 2816,
-  "geoip_singapore_after_cdn_filter": 16,
-  "tcp_alive": 6,
-  "published": 6,
+  "generated_at_utc": 1787521801,
+  "raw_unique": 2990,
+  "resolved": 2826,
+  "geoip_singapore_after_cdn_filter": 17,
+  "tcp_alive": 7,
+  "published": 7,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,36 +15,27 @@
   },
   "servers": [
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.246.50",
-      "ping_ms": 149.7,
-      "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
-    },
-    {
       "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
       "ip": "66.42.62.84",
-      "ping_ms": 221.8,
+      "ping_ms": 167.6,
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#EPODONIOS",
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#Generalconfiig",
       "ip": "194.233.94.119",
-      "ping_ms": 235.0,
+      "ping_ms": 168.0,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#🧮81@oneclickvpnkeys",
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:443#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 241.5,
+      "ping_ms": 168.2,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
@@ -53,7 +44,7 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 241.9,
+      "ping_ms": 183.4,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
@@ -62,11 +53,29 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
       "ip": "103.36.91.32",
-      "ping_ms": 242.7,
+      "ping_ms": 183.7,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬",
+      "ip": "43.174.246.50",
+      "ping_ms": 189.5,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.246.50",
+      "ping_ms": 201.7,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
     }
   ]
 }
