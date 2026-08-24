@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1787542481,
-  "raw_unique": 2987,
-  "resolved": 2824,
-  "geoip_singapore_after_cdn_filter": 25,
+  "generated_at_utc": 1787551278,
+  "raw_unique": 2989,
+  "resolved": 2823,
+  "geoip_singapore_after_cdn_filter": 28,
   "tcp_alive": 14,
-  "published": 11,
+  "published": 9,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
@@ -16,8 +16,8 @@
   "servers": [
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.246.50",
-      "ping_ms": 147.3,
+      "ip": "43.174.247.50",
+      "ping_ms": 163.0,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
@@ -25,53 +25,62 @@
     },
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬",
-      "ip": "43.174.247.50",
-      "ping_ms": 158.3,
+      "ip": "43.174.246.50",
+      "ping_ms": 175.1,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
       "as": "AS139341 ACE"
     },
     {
-      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=#EPODONIOS",
-      "ip": "45.135.228.165",
-      "ping_ms": 221.2,
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MytmeXR4NHg1OUgzS2pDOWhQa2FpYS93bitnVGdsNmNlZzJxSjlJWHpjRT0=@140.245.126.240:56927#EPODONIOS",
+      "ip": "140.245.126.240",
+      "ping_ms": 207.5,
       "city": "Singapore",
-      "isp": "G-Core Labs S.A.",
-      "org": "GCL",
-      "as": "AS199524 G-Core Labs S.A."
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#🇸🇬150900",
-      "ip": "45.135.228.165",
-      "ping_ms": 221.4,
-      "city": "Singapore",
-      "isp": "G-Core Labs S.A.",
-      "org": "GCL",
-      "as": "AS199524 G-Core Labs S.A."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#EPODONIOS",
-      "ip": "139.180.133.90",
-      "ping_ms": 222.4,
+      "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
+      "ip": "66.42.62.84",
+      "ping_ms": 207.6,
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#EPODONIOS",
-      "ip": "167.150.100.115",
-      "ping_ms": 224.3,
+      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#🇸🇬150900",
+      "ip": "45.135.228.165",
+      "ping_ms": 207.9,
       "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc"
+      "isp": "G-Core Labs S.A.",
+      "org": "GCL",
+      "as": "AS199524 G-Core Labs S.A."
+    },
+    {
+      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#کانال",
+      "ip": "45.135.228.165",
+      "ping_ms": 208.0,
+      "city": "Singapore",
+      "isp": "G-Core Labs S.A.",
+      "org": "GCL",
+      "as": "AS199524 G-Core Labs S.A."
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MytmeXR4NHg1OUgzS2pDOWhQa2FpYS93bitnVGdsNmNlZzJxSjlJWHpjRT0=@140.245.126.240:56927#🇸🇬SG-🚀@VPNine1",
+      "ip": "140.245.126.240",
+      "ping_ms": 209.7,
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation"
     },
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 228.8,
+      "ping_ms": 453.3,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
@@ -80,38 +89,11 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#Generalconfiig",
       "ip": "194.233.94.119",
-      "ping_ms": 230.6,
+      "ping_ms": 462.3,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
-    },
-    {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
-      "ip": "103.36.91.32",
-      "ping_ms": 239.6,
-      "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
-      "ip": "103.36.91.32",
-      "ping_ms": 240.9,
-      "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
-      "ip": "66.42.62.84",
-      "ping_ms": 1233.9,
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
     }
   ]
 }
