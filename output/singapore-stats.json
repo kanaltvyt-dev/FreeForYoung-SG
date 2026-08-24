@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1787551278,
-  "raw_unique": 2989,
-  "resolved": 2823,
-  "geoip_singapore_after_cdn_filter": 28,
+  "generated_at_utc": 1787560215,
+  "raw_unique": 2992,
+  "resolved": 2814,
+  "geoip_singapore_after_cdn_filter": 30,
   "tcp_alive": 14,
-  "published": 9,
+  "published": 13,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,36 +15,45 @@
   },
   "servers": [
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.247.50",
-      "ping_ms": 163.0,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#🇸🇬SG-🚀@VPNine1",
+      "ip": "52.77.169.4",
+      "ping_ms": 174.6,
       "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW",
+      "ip": "52.77.169.4",
+      "ping_ms": 175.8,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#EPODONIOS",
+      "ip": "45.135.228.165",
+      "ping_ms": 176.0,
+      "city": "Singapore",
+      "isp": "G-Core Labs S.A.",
+      "org": "GCL",
+      "as": "AS199524 G-Core Labs S.A."
     },
     {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬",
       "ip": "43.174.246.50",
-      "ping_ms": 175.1,
+      "ping_ms": 176.7,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
       "as": "AS139341 ACE"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MytmeXR4NHg1OUgzS2pDOWhQa2FpYS93bitnVGdsNmNlZzJxSjlJWHpjRT0=@140.245.126.240:56927#EPODONIOS",
-      "ip": "140.245.126.240",
-      "ping_ms": 207.5,
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
-    },
-    {
       "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
       "ip": "66.42.62.84",
-      "ping_ms": 207.6,
+      "ping_ms": 177.6,
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
@@ -53,34 +62,61 @@
     {
       "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#🇸🇬150900",
       "ip": "45.135.228.165",
-      "ping_ms": 207.9,
+      "ping_ms": 179.4,
       "city": "Singapore",
       "isp": "G-Core Labs S.A.",
       "org": "GCL",
       "as": "AS199524 G-Core Labs S.A."
     },
     {
-      "uri": "trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#کانال",
-      "ip": "45.135.228.165",
-      "ping_ms": 208.0,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#EPODONIOS",
+      "ip": "167.150.100.115",
+      "ping_ms": 180.0,
       "city": "Singapore",
-      "isp": "G-Core Labs S.A.",
-      "org": "GCL",
-      "as": "AS199524 G-Core Labs S.A."
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MytmeXR4NHg1OUgzS2pDOWhQa2FpYS93bitnVGdsNmNlZzJxSjlJWHpjRT0=@140.245.126.240:56927#🇸🇬SG-🚀@VPNine1",
-      "ip": "140.245.126.240",
-      "ping_ms": 209.7,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬",
+      "ip": "167.150.100.115",
+      "ping_ms": 182.7,
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.246.50",
+      "ping_ms": 187.1,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
+      "ip": "103.36.91.32",
+      "ping_ms": 189.7,
+      "city": "Singapore",
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
+      "ip": "103.36.91.32",
+      "ping_ms": 194.1,
+      "city": "Singapore",
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 453.3,
+      "ping_ms": 224.7,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
@@ -89,7 +125,7 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#Generalconfiig",
       "ip": "194.233.94.119",
-      "ping_ms": 462.3,
+      "ping_ms": 230.9,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
