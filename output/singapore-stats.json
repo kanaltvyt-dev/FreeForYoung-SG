@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1787615506,
-  "raw_unique": 2989,
-  "resolved": 2834,
-  "geoip_singapore_after_cdn_filter": 54,
-  "tcp_alive": 42,
-  "published": 15,
+  "generated_at_utc": 1787627839,
+  "raw_unique": 2988,
+  "resolved": 2840,
+  "geoip_singapore_after_cdn_filter": 52,
+  "tcp_alive": 40,
+  "published": 17,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,81 +15,72 @@
   },
   "servers": [
     {
-      "uri": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.51:443?security=tls&sni=xinh.ylks.link&type=ws&path=/blue#EPODONIOS",
-      "ip": "206.238.237.51",
-      "ping_ms": 14.7,
+      "uri": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.41:443?security=tls&sni=xinh.ylks.link&type=ws&path=/blue#EPODONIOS",
+      "ip": "206.238.236.41",
+      "ping_ms": 1.9,
       "city": "Singapore",
       "isp": "Tcloudnet, Inc",
       "org": "Tcloudnet, Inc",
       "as": "AS399077 Tcloudnet"
     },
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.246.50",
-      "ping_ms": 177.8,
+      "uri": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.51:443?security=tls&sni=xinh.ylks.link&type=ws&path=/blue#EPODONIOS",
+      "ip": "206.238.237.51",
+      "ping_ms": 2.4,
       "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:33308#EPODONIOS",
-      "ip": "13.250.125.224",
-      "ping_ms": 178.7,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:43233#@freenettir",
-      "ip": "13.250.125.224",
-      "ping_ms": 178.8,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#EPODONIOS",
-      "ip": "3.1.60.162",
-      "ping_ms": 179.9,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW",
-      "ip": "3.1.60.162",
-      "ping_ms": 180.8,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
+      "isp": "Tcloudnet, Inc",
+      "org": "Tcloudnet, Inc",
+      "as": "AS399077 Tcloudnet"
     },
     {
       "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
       "ip": "66.42.62.84",
-      "ping_ms": 184.2,
+      "ping_ms": 167.3,
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OEMrQzQxSEx6dFJqdnErc2Y2Szk0VjJpKzZTWUdITi9sZGcyVXR0Tk5ZND0@129.150.48.175:56927#🇸🇬",
-      "ip": "129.150.48.175",
-      "ping_ms": 184.7,
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TlBJbVh1MWR2ZE12Z2V1Rng2MGZsZWNDRXhUdGtMVWZRZDdIcVhicUpNcz0@161.118.208.57:56927#🇸🇬SG-🚀@VPNine1",
+      "ip": "161.118.208.57",
+      "ping_ms": 168.0,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ejVSdEtmcWNqc3VlRWdTRUs1RnpSU1VySXZVemxMZkpnRVdvNUJrWnFJND0@138.2.87.37:56927#🇸🇬",
-      "ip": "138.2.87.37",
-      "ping_ms": 186.0,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#EPODONIOS",
+      "ip": "3.1.60.162",
+      "ping_ms": 168.5,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:43233#🇸🇬151572",
+      "ip": "13.250.125.224",
+      "ping_ms": 168.9,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:33308#@freenettir",
+      "ip": "13.250.125.224",
+      "ping_ms": 168.9,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#کانال",
+      "ip": "161.118.225.224",
+      "ping_ms": 168.9,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
@@ -98,56 +89,83 @@
     {
       "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ejVSdEtmcWNqc3VlRWdTRUs1RnpSU1VySXZVemxMZkpnRVdvNUJrWnFJND0@138.2.87.37:56927#EPODONIOS",
       "ip": "138.2.87.37",
-      "ping_ms": 189.0,
+      "ping_ms": 169.0,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#🇸🇬151716",
+      "ip": "161.118.225.224",
+      "ping_ms": 169.1,
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation"
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW",
+      "ip": "3.1.60.162",
+      "ping_ms": 170.0,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OEMrQzQxSEx6dFJqdnErc2Y2Szk0VjJpKzZTWUdITi9sZGcyVXR0Tk5ZND0@129.150.48.175:56927#EPODONIOS",
       "ip": "129.150.48.175",
-      "ping_ms": 189.3,
+      "ping_ms": 170.5,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
-      "ip": "103.36.91.32",
-      "ping_ms": 194.8,
-      "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
       "ip": "103.36.91.32",
-      "ping_ms": 197.9,
+      "ping_ms": 178.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#🇸🇬151564",
-      "ip": "194.233.94.119",
-      "ping_ms": 199.4,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
+      "ip": "103.36.91.32",
+      "ping_ms": 179.5,
       "city": "Singapore",
-      "isp": "Contabo Asia Private Limited",
-      "org": "Contabo Asia Private Limited",
-      "as": "AS141995 Contabo Asia Private Limited"
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 199.9,
+      "ping_ms": 185.5,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#@freenettir",
+      "ip": "194.233.94.119",
+      "ping_ms": 186.4,
+      "city": "Singapore",
+      "isp": "Contabo Asia Private Limited",
+      "org": "Contabo Asia Private Limited",
+      "as": "AS141995 Contabo Asia Private Limited"
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.246.50",
+      "ping_ms": 189.0,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
     }
   ]
 }
