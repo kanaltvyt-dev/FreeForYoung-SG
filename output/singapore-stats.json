@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1787715447,
-  "raw_unique": 2990,
-  "resolved": 2795,
-  "geoip_singapore_after_cdn_filter": 33,
-  "tcp_alive": 25,
-  "published": 11,
+  "generated_at_utc": 1787723720,
+  "raw_unique": 2987,
+  "resolved": 2784,
+  "geoip_singapore_after_cdn_filter": 30,
+  "tcp_alive": 20,
+  "published": 9,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,45 +15,27 @@
   },
   "servers": [
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.247.50",
-      "ping_ms": 177.3,
-      "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:43233#@meliproxyy",
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:31352#@meliproxyy",
       "ip": "47.128.231.237",
-      "ping_ms": 178.7,
+      "ping_ms": 161.2,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:33308#EPODONIOS",
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:33308#@meliproxyy",
       "ip": "47.128.231.237",
-      "ping_ms": 179.3,
+      "ping_ms": 161.5,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#🇸🇬",
-      "ip": "139.180.133.90",
-      "ping_ms": 181.1,
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
     },
     {
       "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW",
       "ip": "52.76.213.91",
-      "ping_ms": 182.4,
+      "ping_ms": 162.5,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
@@ -62,52 +44,52 @@
     {
       "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#EPODONIOS",
       "ip": "52.76.213.91",
-      "ping_ms": 183.4,
+      "ping_ms": 163.6,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#EPODONIOS",
-      "ip": "139.180.133.90",
-      "ping_ms": 190.3,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
+      "ip": "103.36.91.32",
+      "ping_ms": 185.1,
       "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 195.4,
+      "ping_ms": 187.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
-      "ip": "103.36.91.32",
-      "ping_ms": 198.0,
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.247.50",
+      "ping_ms": 210.7,
       "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg==@194.233.94.119:80#EPODONIOS",
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#@meliproxyy",
       "ip": "194.233.94.119",
-      "ping_ms": 293.7,
+      "ping_ms": 1285.6,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#vpnsal",
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 296.6,
+      "ping_ms": 1286.4,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
