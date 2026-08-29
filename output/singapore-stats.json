@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1788030584,
-  "raw_unique": 2993,
-  "resolved": 2802,
-  "geoip_singapore_after_cdn_filter": 32,
+  "generated_at_utc": 1788034224,
+  "raw_unique": 2998,
+  "resolved": 2810,
+  "geoip_singapore_after_cdn_filter": 35,
   "tcp_alive": 24,
   "published": 18,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,126 +15,108 @@
   },
   "servers": [
     {
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:43233#vpnsal",
+      "ip": "18.138.249.79",
+      "ping_ms": 177.9,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:31352#EPODONIOS",
+      "ip": "18.138.249.79",
+      "ping_ms": 178.3,
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
       "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
       "ip": "43.174.247.50",
-      "ping_ms": 177.4,
+      "ping_ms": 180.0,
       "city": "Singapore",
       "isp": "Aceville Pte.ltd.",
       "org": "ACE",
       "as": "AS139341 ACE"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:31352#vpnsal",
-      "ip": "54.169.8.235",
-      "ping_ms": 177.6,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:31352#EPODONIOS",
-      "ip": "54.169.8.235",
-      "ping_ms": 178.5,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#EPODONIOS",
-      "ip": "18.140.215.238",
-      "ping_ms": 179.5,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
       "uri": "vless://302debe4-0cc7-48d1-9433-3242dbb6730a@52.77.240.16:15562?security=reality&encryption=none&pbk=TzY8IrCzcw3jLJa9tiYLbvHb0h7L6MSZXl6JsqkDCxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=5ba824948be6#EPODONIOS",
       "ip": "52.77.240.16",
-      "ping_ms": 179.5,
+      "ping_ms": 180.2,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#vpnsal",
-      "ip": "194.233.94.119",
-      "ping_ms": 181.3,
-      "city": "Singapore",
-      "isp": "Contabo Asia Private Limited",
-      "org": "Contabo Asia Private Limited",
-      "as": "AS141995 Contabo Asia Private Limited"
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#EPODONIOS",
-      "ip": "161.118.208.148",
-      "ping_ms": 183.7,
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
     },
     {
       "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW",
       "ip": "18.140.215.238",
-      "ping_ms": 183.7,
+      "ping_ms": 182.0,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#🇸🇬",
-      "ip": "161.118.215.233",
-      "ping_ms": 184.1,
+      "uri": "vless://2a4a8c73-681c-4c1a-b0c7-f3117f572c59@54.169.169.217:19149?security=reality&encryption=none&pbk=Q1R0MnoUXL6BBckmMtWBXuufndtVTfgookn6U-f9llk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=bbe1a6a823bb9f6e#EPODONIOS",
+      "ip": "54.169.169.217",
+      "ping_ms": 182.8,
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Corporation",
-      "as": "AS31898 Oracle Corporation"
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MnhnRHBVdmN0L3J3NmY2d2ZxUTBOZVF6Wlo5TjhQTHZDVHVSdDFPVkJoZz0@158.178.239.69:56927#EPODONIOS",
       "ip": "158.178.239.69",
-      "ping_ms": 184.7,
+      "ping_ms": 183.2,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#EPODONIOS",
+      "ip": "18.140.215.238",
+      "ping_ms": 183.2,
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc."
+    },
+    {
       "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#EPODONIOS",
       "ip": "194.233.94.119",
-      "ping_ms": 185.2,
+      "ping_ms": 187.8,
       "city": "Singapore",
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo Asia Private Limited",
       "as": "AS141995 Contabo Asia Private Limited"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#EPODONIOS",
-      "ip": "161.118.215.233",
-      "ping_ms": 185.4,
+      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬",
+      "ip": "167.150.100.115",
+      "ping_ms": 189.6,
+      "city": "Singapore",
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc"
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MnhnRHBVdmN0L3J3NmY2d2ZxUTBOZVF6Wlo5TjhQTHZDVHVSdDFPVkJoZz0@158.178.239.69:56927#[027552]",
+      "ip": "158.178.239.69",
+      "ping_ms": 190.2,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "vless://2a4a8c73-681c-4c1a-b0c7-f3117f572c59@54.169.169.217:19149?security=reality&encryption=none&pbk=Q1R0MnoUXL6BBckmMtWBXuufndtVTfgookn6U-f9llk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=bbe1a6a823bb9f6e#EPODONIOS",
-      "ip": "54.169.169.217",
-      "ping_ms": 186.6,
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
       "ip": "103.36.91.32",
-      "ping_ms": 196.5,
+      "ping_ms": 191.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
@@ -143,34 +125,52 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 199.4,
+      "ping_ms": 194.3,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
+      "uri": "ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#vpnsal",
+      "ip": "194.233.94.119",
+      "ping_ms": 203.9,
+      "city": "Singapore",
+      "isp": "Contabo Asia Private Limited",
+      "org": "Contabo Asia Private Limited",
+      "as": "AS141995 Contabo Asia Private Limited"
+    },
+    {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
       "ip": "46.137.202.178",
-      "ping_ms": 218.0,
+      "ping_ms": 206.8,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MnhnRHBVdmN0L3J3NmY2d2ZxUTBOZVF6Wlo5TjhQTHZDVHVSdDFPVkJoZz0@158.178.239.69:56927#🇸🇬",
-      "ip": "158.178.239.69",
-      "ping_ms": 1249.6,
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#EPODONIOS",
+      "ip": "161.118.208.148",
+      "ping_ms": 1187.5,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#🇸🇬",
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#[027553]",
+      "ip": "161.118.215.233",
+      "ping_ms": 1244.4,
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation"
+    },
+    {
+      "uri": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#[027551]",
       "ip": "161.118.208.148",
-      "ping_ms": 2229.0,
+      "ping_ms": 1246.4,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Corporation",
