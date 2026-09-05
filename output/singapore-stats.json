@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1788614147,
-  "raw_unique": 2991,
-  "resolved": 2879,
+  "generated_at_utc": 1788617779,
+  "raw_unique": 2990,
+  "resolved": 2870,
   "geoip_singapore_after_cdn_filter": 19,
-  "tcp_alive": 15,
-  "published": 14,
+  "tcp_alive": 14,
+  "published": 12,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
@@ -15,90 +15,63 @@
   },
   "servers": [
     {
-      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
-      "ip": "43.174.246.50",
-      "ping_ms": 147.5,
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#EPODONIOS",
+      "ip": "146.235.16.130",
+      "ping_ms": 168.1,
       "city": "Singapore",
-      "isp": "Aceville Pte.ltd.",
-      "org": "ACE",
-      "as": "AS139341 ACE"
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation"
     },
     {
       "uri": "trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#EPODONIOS",
       "ip": "139.59.238.97",
-      "ping_ms": 222.7,
+      "ping_ms": 168.3,
       "city": "Singapore",
       "isp": "DIGITALOCEAN",
       "org": "DigitalOcean, LLC",
       "as": "AS14061 DigitalOcean, LLC"
-    },
-    {
-      "uri": "trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@configprxy",
-      "ip": "139.59.238.97",
-      "ping_ms": 222.9,
-      "city": "Singapore",
-      "isp": "DIGITALOCEAN",
-      "org": "DigitalOcean, LLC",
-      "as": "AS14061 DigitalOcean, LLC"
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#EPODONIOS",
-      "ip": "167.150.100.115",
-      "ping_ms": 222.9,
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc"
-    },
-    {
-      "uri": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬162321",
-      "ip": "167.150.100.115",
-      "ping_ms": 223.2,
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc"
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#EPODONIOS",
       "ip": "146.235.16.130",
-      "ping_ms": 223.9,
+      "ping_ms": 169.0,
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation"
     },
     {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
-      "ip": "146.235.16.130",
-      "ping_ms": 226.6,
+      "uri": "trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@configprxy",
+      "ip": "139.59.238.97",
+      "ping_ms": 170.1,
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation"
+      "isp": "DIGITALOCEAN",
+      "org": "DigitalOcean, LLC",
+      "as": "AS14061 DigitalOcean, LLC"
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
       "ip": "46.137.202.178",
-      "ping_ms": 227.9,
+      "ping_ms": 174.2,
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.050.node-for-bigairport.win:19001#EPODONIOS",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.050.node-for-bigairport.win:19001#[038300]",
       "ip": "54.151.188.201",
-      "ping_ms": 229.2,
+      "ping_ms": 175.6,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.050.node-for-bigairport.win:19001#🇸🇬",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.050.node-for-bigairport.win:19001#EPODONIOS",
       "ip": "54.151.188.201",
-      "ping_ms": 230.2,
+      "ping_ms": 176.6,
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
@@ -107,38 +80,47 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 239.7,
+      "ping_ms": 176.7,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "vless://5e4c4ee0-9a52-421e-8427-7ad6ff027312@13.212.143.2:18516?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=6ce3397cbd5ada&pbk=0nAOIGPKjVAgGpN_FrdSQ1qg_J-nuIhS9-UZYLMfy2g&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
-      "ip": "13.212.143.2",
-      "ping_ms": 260.7,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
-    },
-    {
-      "uri": "vless://a205aa45-9314-43c6-ab0f-8718c573ee78@54.254.241.82:53836?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=89dd6fba1e43&pbk=zKRmiqB6phUSq8EO4PIujKNHeNZP3JVWLwCKX8iKgVA#%E6%96%B0%E5%8A%A0%E5%9D%A1+%E4%BA%9A%E9%A9%AC%E9%80%8A%28Amazon%29%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
-      "ip": "54.254.241.82",
-      "ping_ms": 279.2,
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc."
     },
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#EPODONIOS",
       "ip": "103.36.91.32",
-      "ping_ms": 2271.2,
+      "ping_ms": 177.3,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+    },
+    {
+      "uri": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#🇸🇬162500",
+      "ip": "43.174.247.53",
+      "ping_ms": 189.8,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=/55072/api&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#EPODONIOS",
+      "ip": "43.174.247.53",
+      "ping_ms": 189.9,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS",
+      "ip": "43.174.247.50",
+      "ping_ms": 190.4,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
     }
   ]
 }
