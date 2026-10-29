@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1793292648,
-  "raw_unique": 1505,
-  "resolved": 1482,
-  "geoip_singapore_after_cdn_filter": 7,
-  "tcp_alive": 4,
-  "published": 4,
+  "generated_at_utc": 1793310227,
+  "raw_unique": 1507,
+  "resolved": 1484,
+  "geoip_singapore_after_cdn_filter": 6,
+  "tcp_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 5,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 7,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -17,38 +17,20 @@
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
       "ip": "149.28.130.108",
-      "ping_ms": 218.9,
+      "ping_ms": 179.6,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
-      "ping_ms": 219.2,
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
-    },
-    {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 239.4,
+      "ping_ms": 189.0,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg1.zestapp778.com:56984?sni=sg1.zestapp778.com&fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
-      "ip": "140.235.11.243",
-      "ping_ms": 2296.1,
-      "city": "Singapore",
-      "isp": "Sakura Link Limited",
-      "org": "Sakura LTD",
-      "as": "AS32135 SAKURA LTD."
     }
   ]
 }
