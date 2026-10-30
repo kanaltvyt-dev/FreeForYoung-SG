@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1793310227,
-  "raw_unique": 1507,
-  "resolved": 1484,
-  "geoip_singapore_after_cdn_filter": 6,
-  "tcp_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1793324949,
+  "raw_unique": 1511,
+  "resolved": 1489,
+  "geoip_singapore_after_cdn_filter": 8,
+  "tcp_alive": 5,
+  "published": 5,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 7,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,18 +15,45 @@
   },
   "servers": [
     {
+      "uri": "vless://24916ad0-847d-4522-9e17-f4347dee57fd@43.174.195.1:443?encryption=none&security=tls&sni=kv.074167.xyz&type=ws&host=kv.074167.xyz&path=%2F#%E6%97%A5%E6%9C%AC+V2CROSS.COM",
+      "ip": "43.174.195.1",
+      "ping_ms": 148.6,
+      "city": "Singapore",
+      "isp": "Aceville Pte.ltd.",
+      "org": "ACE",
+      "as": "AS139341 ACE"
+    },
+    {
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
+      "ip": "139.180.146.200",
+      "ping_ms": 195.9,
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC"
+    },
+    {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
       "ip": "149.28.130.108",
-      "ping_ms": 179.6,
+      "ping_ms": 196.8,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886#[81559]",
+      "ip": "139.180.146.200",
+      "ping_ms": 205.0,
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC"
+    },
+    {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 189.0,
+      "ping_ms": 212.8,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
