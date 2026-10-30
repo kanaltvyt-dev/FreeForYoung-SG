@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1793375236,
-  "raw_unique": 1512,
-  "resolved": 1491,
-  "geoip_singapore_after_cdn_filter": 5,
-  "tcp_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1793392747,
+  "raw_unique": 1511,
+  "resolved": 1492,
+  "geoip_singapore_after_cdn_filter": 6,
+  "tcp_alive": 3,
+  "published": 3,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,9 +15,18 @@
   },
   "servers": [
     {
+      "uri": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.132:8080#🇩🇪",
+      "ip": "128.1.186.132",
+      "ping_ms": 195.1,
+      "city": "Singapore",
+      "isp": "Zenlayer Inc",
+      "org": "ZENLA",
+      "as": "AS21859 Zenlayer Inc"
+    },
+    {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
       "ip": "149.28.130.108",
-      "ping_ms": 168.4,
+      "ping_ms": 196.2,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
@@ -26,7 +35,7 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 184.8,
+      "ping_ms": 2262.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
