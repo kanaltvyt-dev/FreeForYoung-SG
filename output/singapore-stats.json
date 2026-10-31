@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1793407079,
-  "raw_unique": 1513,
-  "resolved": 1496,
-  "geoip_singapore_after_cdn_filter": 6,
-  "tcp_alive": 3,
-  "published": 3,
+  "generated_at_utc": 1793429564,
+  "raw_unique": 1516,
+  "resolved": 1499,
+  "geoip_singapore_after_cdn_filter": 8,
+  "tcp_alive": 6,
+  "published": 4,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,18 +15,18 @@
   },
   "servers": [
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
-      "ping_ms": 197.0,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
+      "ip": "149.28.130.108",
+      "ping_ms": 193.7,
       "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
+      "isp": "The Constant Company",
+      "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬SG-🚀@VPNine1",
       "ip": "149.28.130.108",
-      "ping_ms": 199.6,
+      "ping_ms": 198.6,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
@@ -35,11 +35,20 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 216.3,
+      "ping_ms": 210.9,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬",
+      "ip": "139.180.220.175",
+      "ping_ms": 1205.2,
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC"
     }
   ]
 }
