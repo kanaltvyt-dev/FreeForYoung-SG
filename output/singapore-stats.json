@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1793801846,
-  "raw_unique": 1509,
-  "resolved": 1485,
-  "geoip_singapore_after_cdn_filter": 12,
-  "tcp_alive": 10,
-  "published": 4,
+  "generated_at_utc": 1793826836,
+  "raw_unique": 1508,
+  "resolved": 1482,
+  "geoip_singapore_after_cdn_filter": 15,
+  "tcp_alive": 13,
+  "published": 7,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 9,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -15,40 +15,67 @@
   },
   "servers": [
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
-      "ip": "103.36.91.32",
-      "ping_ms": 212.6,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬SG-🚀@VPNine1",
+      "ip": "149.88.107.74",
+      "ping_ms": 218.3,
       "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬10",
-      "ip": "103.36.91.32",
-      "ping_ms": 213.4,
-      "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬",
-      "ip": "139.180.220.175",
-      "ping_ms": 248.8,
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC"
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com#⏳42@oneclickvpnkeys",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
       "ip": "149.28.130.108",
-      "ping_ms": 249.8,
+      "ping_ms": 218.4,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#@filembad",
+      "ip": "149.88.107.74",
+      "ping_ms": 218.6,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#🇸🇬SG-🚀@VPNine1",
+      "ip": "149.88.106.73",
+      "ping_ms": 219.2,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#@VPNConnectd",
+      "ip": "149.88.106.73",
+      "ping_ms": 222.5,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06",
+      "ip": "103.36.91.32",
+      "ping_ms": 237.2,
+      "city": "Singapore",
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬03",
+      "ip": "103.36.91.32",
+      "ping_ms": 237.6,
+      "city": "Singapore",
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     }
   ]
 }

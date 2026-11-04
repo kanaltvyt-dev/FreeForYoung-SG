@@ -6,7 +6,10 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬10
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com#⏳42@oneclickvpnkeys
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬SG-🚀@VPNine1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#@filembad
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#🇸🇬SG-🚀@VPNine1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#@VPNConnectd
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬03
