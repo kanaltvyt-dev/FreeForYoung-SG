@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": 1793945991,
+  "generated_at_utc": 1793976940,
   "raw_unique": 1507,
   "resolved": 1480,
   "geoip_singapore_after_cdn_filter": 14,
@@ -15,9 +15,27 @@
   },
   "servers": [
     {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
+      "ip": "149.28.130.108",
+      "ping_ms": 167.3,
+      "city": "Singapore",
+      "isp": "The Constant Company",
+      "org": "Vultr Holdings, LLC",
+      "as": "AS20473 The Constant Company, LLC"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#@VPNConnectd",
+      "ip": "149.88.106.73",
+      "ping_ms": 167.7,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
       "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#@VPNConnectd",
       "ip": "149.88.107.74",
-      "ping_ms": 196.4,
+      "ping_ms": 167.7,
       "city": "Singapore",
       "isp": "Datacamp Limited",
       "org": "Datacamp Limited",
@@ -26,61 +44,43 @@
     {
       "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#@FXxNET⚡️",
       "ip": "149.88.107.74",
-      "ping_ms": 197.1,
+      "ping_ms": 168.2,
       "city": "Singapore",
       "isp": "Datacamp Limited",
       "org": "Datacamp Limited",
       "as": "AS212238 Datacamp Limited"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#@VPNConnectd",
-      "ip": "149.88.106.73",
-      "ping_ms": 197.4,
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@V2rayNGVPN",
+      "ip": "15.235.184.127",
+      "ping_ms": 281.4,
       "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "Datacamp Limited",
-      "as": "AS212238 Datacamp Limited"
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
-      "ip": "149.28.130.108",
-      "ping_ms": 197.6,
-      "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC"
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@FXxNET⚡️",
       "ip": "15.235.184.127",
-      "ping_ms": 312.6,
+      "ping_ms": 281.6,
       "city": "Singapore",
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS"
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@tootffarangi🍓",
-      "ip": "15.235.184.127",
-      "ping_ms": 316.5,
-      "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS"
-    },
-    {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬08",
       "ip": "103.36.91.32",
-      "ping_ms": 1215.2,
+      "ping_ms": 1216.0,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬08",
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06",
       "ip": "103.36.91.32",
-      "ping_ms": 1215.4,
+      "ping_ms": 1217.6,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
