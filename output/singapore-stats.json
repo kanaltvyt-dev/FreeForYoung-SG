@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1794076695,
+  "generated_at_utc": 1794091097,
   "raw_unique": 1518,
-  "resolved": 1496,
-  "geoip_singapore_after_cdn_filter": 24,
-  "tcp_alive": 19,
-  "published": 10,
+  "resolved": 1498,
+  "geoip_singapore_after_cdn_filter": 20,
+  "tcp_alive": 18,
+  "published": 14,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
@@ -15,27 +15,90 @@
   },
   "servers": [
     {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#@FXxNET⚡️",
-      "ip": "149.88.107.74",
-      "ping_ms": 159.8,
+      "uri": "trojan://3hTP0u0QMGGZqV7i@atlaswero-production.up.railway.app:443?path=/api/de4GPz&security=tls&alpn=http/1.1&insecure=0&host=atlaswero-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=atlaswero-production.up.railway.app#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️654🌐🆕",
+      "ip": "153.52.255.14",
+      "ping_ms": 24.0,
       "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "Datacamp Limited",
-      "as": "AS212238 Datacamp Limited"
+      "isp": "Railway",
+      "org": "Railway",
+      "as": ""
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayNGVPN",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
       "ip": "149.28.130.108",
-      "ping_ms": 160.2,
+      "ping_ms": 181.0,
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#@filembad",
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬",
       "ip": "149.88.107.74",
-      "ping_ms": 160.2,
+      "ping_ms": 181.4,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬05",
+      "ip": "149.88.107.74",
+      "ping_ms": 181.5,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#@FXxNET⚡️",
+      "ip": "149.88.107.47",
+      "ping_ms": 181.6,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#🇸🇬",
+      "ip": "15.235.182.183",
+      "ping_ms": 181.7,
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#@tootffarangi🍓",
+      "ip": "149.88.107.47",
+      "ping_ms": 181.8,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#🇸🇬",
+      "ip": "15.235.164.133",
+      "ping_ms": 181.8,
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#🇸🇬",
+      "ip": "51.79.228.131",
+      "ping_ms": 181.8,
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#🇸🇬",
+      "ip": "149.88.106.74",
+      "ping_ms": 181.9,
       "city": "Singapore",
       "isp": "Datacamp Limited",
       "org": "Datacamp Limited",
@@ -44,61 +107,34 @@
     {
       "uri": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬08",
       "ip": "68.183.227.4",
-      "ping_ms": 160.5,
+      "ping_ms": 184.1,
       "city": "Singapore",
       "isp": "DigitalOcean, LLC",
       "org": "DigitalOcean, LLC",
       "as": "AS14061 DigitalOcean, LLC"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#🇸🇬",
-      "ip": "149.88.106.74",
-      "ping_ms": 160.6,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06",
+      "ip": "103.36.91.32",
+      "ping_ms": 204.1,
       "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "Datacamp Limited",
-      "as": "AS212238 Datacamp Limited"
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREF3TQ@sg1.ssobfs.site:8388#🇸🇬209358",
-      "ip": "146.19.196.142",
-      "ping_ms": 160.9,
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
+      "ip": "103.36.91.32",
+      "ping_ms": 205.2,
       "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB"
-    },
-    {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREF3TQ@sg1.ssobfs.site:8388#🇸🇬SG-🚀@VPNine1",
-      "ip": "146.19.196.142",
-      "ping_ms": 160.9,
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB"
-    },
-    {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬",
-      "ip": "149.88.107.47",
-      "ping_ms": 165.3,
-      "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "Datacamp Limited",
-      "as": "AS212238 Datacamp Limited"
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
       "ip": "15.235.184.127",
-      "ping_ms": 275.7,
-      "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS"
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
-      "ip": "15.235.184.127",
-      "ping_ms": 276.0,
+      "ping_ms": 289.6,
       "city": "Singapore",
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
