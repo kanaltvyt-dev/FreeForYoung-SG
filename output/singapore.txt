@@ -6,18 +6,18 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#✅
-trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?security=tls&sni=eksmstr-production.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=eksmstr-production.up.railway.app&path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560#Channel
+trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#🇳🇱@FreakConfig
+trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#@V2rayNPVTConfig
 trojan://3hTP0u0QMGGZqV7i@atlaswero-production.up.railway.app:443?path=/api/de4GPz&security=tls&alpn=http/1.1&insecure=0&host=atlaswero-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=atlaswero-production.up.railway.app#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️654🌐🆕
 trojan://KWnXYV6jeSQqiyPv@tygfddc-production.up.railway.app:443?path=/api/A0t7b_&security=tls&alpn=http/1.1&insecure=0&host=tygfddc-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tygfddc-production.up.railway.app#@VPsave
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️660🌐🆕
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#⚜️𝗝𝗼𝗶𝗻
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬12
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#@FXxNET⚡️
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#⚜️𝗝𝗼𝗶𝗻
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#@GozargahAzad|🇸🇬
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#[90515]
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
