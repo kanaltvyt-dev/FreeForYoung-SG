@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": 1794184935,
-  "raw_unique": 1518,
-  "resolved": 1495,
-  "geoip_singapore_after_cdn_filter": 26,
-  "tcp_alive": 25,
+  "generated_at_utc": 1794210648,
+  "raw_unique": 1519,
+  "resolved": 1493,
+  "geoip_singapore_after_cdn_filter": 24,
+  "tcp_alive": 23,
   "published": 15,
   "source_stats": {
     "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64-SG.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/reality.txt": "ERROR: HTTP Error 404: Not Found",
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 1500,
@@ -17,61 +17,16 @@
     {
       "uri": "trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#✅",
       "ip": "153.52.255.94",
-      "ping_ms": 23.5,
+      "ping_ms": 8.6,
       "city": "Singapore",
       "isp": "Railway",
       "org": "Railway",
       "as": ""
     },
     {
-      "uri": "trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#telegram:@pirozi_ArGaP",
+      "uri": "trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?security=tls&sni=eksmstr-production.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=eksmstr-production.up.railway.app&path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560#Channel",
       "ip": "153.52.255.94",
-      "ping_ms": 23.6,
-      "city": "Singapore",
-      "isp": "Railway",
-      "org": "Railway",
-      "as": ""
-    },
-    {
-      "uri": "trojan://SDTAQyUXpHVaH05p@ertyuioiuyhb-production.up.railway.app:443?path=/api/OuTKBU&security=tls&alpn=http/1.1&insecure=0&host=ertyuioiuyhb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ertyuioiuyhb-production.up.railway.app#@FarazV2ray",
-      "ip": "153.52.255.34",
-      "ping_ms": 26.4,
-      "city": "Singapore",
-      "isp": "Railway",
-      "org": "Railway",
-      "as": ""
-    },
-    {
-      "uri": "trojan://ZW1b6wQuLP6SfdWq@mot6fvb-production.up.railway.app:443?path=/api/9cvK5A&security=tls&alpn=http/1.1&insecure=0&host=mot6fvb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mot6fvb-production.up.railway.app#🇺🇸US-🚀@VPNine1",
-      "ip": "153.52.255.25",
-      "ping_ms": 26.6,
-      "city": "Singapore",
-      "isp": "Railway",
-      "org": "Railway",
-      "as": ""
-    },
-    {
-      "uri": "trojan://KWnXYV6jeSQqiyPv@tygfddc-production.up.railway.app:443?path=/api/A0t7b_&security=tls&alpn=http/1.1&insecure=0&host=tygfddc-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tygfddc-production.up.railway.app#@VPsave",
-      "ip": "153.52.255.74",
-      "ping_ms": 27.1,
-      "city": "Singapore",
-      "isp": "Railway",
-      "org": "Railway",
-      "as": ""
-    },
-    {
-      "uri": "trojan://SDTAQyUXpHVaH05p@ertyuioiuyhb-production.up.railway.app:443?path=/api/OuTKBU&security=tls&alpn=http/1.1&insecure=0&host=ertyuioiuyhb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ertyuioiuyhb-production.up.railway.app#🇳🇱@FreakConfig",
-      "ip": "153.52.255.34",
-      "ping_ms": 29.9,
-      "city": "Singapore",
-      "isp": "Railway",
-      "org": "Railway",
-      "as": ""
-    },
-    {
-      "uri": "trojan://ZW1b6wQuLP6SfdWq@mot6fvb-production.up.railway.app:443?path=/api/9cvK5A&security=tls&alpn=http/1.1&insecure=0&host=mot6fvb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mot6fvb-production.up.railway.app#🇸🇬210382",
-      "ip": "153.52.255.25",
-      "ping_ms": 31.8,
+      "ping_ms": 8.6,
       "city": "Singapore",
       "isp": "Railway",
       "org": "Railway",
@@ -80,16 +35,43 @@
     {
       "uri": "trojan://3hTP0u0QMGGZqV7i@atlaswero-production.up.railway.app:443?path=/api/de4GPz&security=tls&alpn=http/1.1&insecure=0&host=atlaswero-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=atlaswero-production.up.railway.app#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️654🌐🆕",
       "ip": "153.52.255.14",
-      "ping_ms": 33.4,
+      "ping_ms": 8.8,
       "city": "Singapore",
       "isp": "Railway",
       "org": "Railway",
       "as": ""
     },
     {
+      "uri": "trojan://KWnXYV6jeSQqiyPv@tygfddc-production.up.railway.app:443?path=/api/A0t7b_&security=tls&alpn=http/1.1&insecure=0&host=tygfddc-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tygfddc-production.up.railway.app#@VPsave",
+      "ip": "153.52.255.74",
+      "ping_ms": 9.1,
+      "city": "Singapore",
+      "isp": "Railway",
+      "org": "Railway",
+      "as": ""
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️660🌐🆕",
+      "ip": "149.88.107.74",
+      "ping_ms": 180.1,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#🇸🇬",
+      "ip": "149.88.107.74",
+      "ping_ms": 181.4,
+      "city": "Singapore",
+      "isp": "Datacamp Limited",
+      "org": "Datacamp Limited",
+      "as": "AS212238 Datacamp Limited"
+    },
+    {
       "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#⚜️𝗝𝗼𝗶𝗻",
       "ip": "149.88.107.47",
-      "ping_ms": 197.3,
+      "ping_ms": 181.9,
       "city": "Singapore",
       "isp": "Datacamp Limited",
       "org": "Datacamp Limited",
@@ -98,16 +80,16 @@
     {
       "uri": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09",
       "ip": "68.183.227.4",
-      "ping_ms": 198.0,
+      "ping_ms": 182.8,
       "city": "Singapore",
       "isp": "DigitalOcean, LLC",
       "org": "DigitalOcean, LLC",
       "as": "AS14061 DigitalOcean, LLC"
     },
     {
-      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️660🌐🆕",
-      "ip": "149.88.107.74",
-      "ping_ms": 199.5,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬",
+      "ip": "149.88.107.47",
+      "ping_ms": 184.7,
       "city": "Singapore",
       "isp": "Datacamp Limited",
       "org": "Datacamp Limited",
@@ -116,7 +98,7 @@
     {
       "uri": "ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬12",
       "ip": "68.183.227.4",
-      "ping_ms": 199.5,
+      "ping_ms": 186.0,
       "city": "Singapore",
       "isp": "DigitalOcean, LLC",
       "org": "DigitalOcean, LLC",
@@ -125,29 +107,47 @@
     {
       "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia",
       "ip": "103.36.91.32",
-      "ping_ms": 219.1,
+      "ping_ms": 188.3,
       "city": "Singapore",
       "isp": "Greywolf Networks Pte. Ltd.",
       "org": "Greywolf Networks Pte. LTD",
       "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     },
     {
-      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06",
-      "ip": "103.36.91.32",
-      "ping_ms": 221.9,
-      "city": "Singapore",
-      "isp": "Greywolf Networks Pte. Ltd.",
-      "org": "Greywolf Networks Pte. LTD",
-      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
-      "ip": "15.235.184.127",
-      "ping_ms": 291.1,
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#@FXxNET⚡️",
+      "ip": "15.235.164.133",
+      "ping_ms": 209.5,
       "city": "Singapore",
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#[90515]",
+      "ip": "15.235.164.133",
+      "ping_ms": 211.1,
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
+      "ip": "15.235.184.127",
+      "ping_ms": 295.7,
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS"
+    },
+    {
+      "uri": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬06",
+      "ip": "103.36.91.32",
+      "ping_ms": 1249.3,
+      "city": "Singapore",
+      "isp": "Greywolf Networks Pte. Ltd.",
+      "org": "Greywolf Networks Pte. LTD",
+      "as": "AS151609 GREYWOLF NETWORKS PTE. LTD."
     }
   ]
 }
